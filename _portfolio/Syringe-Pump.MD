@@ -8,7 +8,9 @@ gallery:
   - image_path: assets/img/Electrical Configuration.png
    
 ---
-![Syringe Pump Render](assets/img/IRL-Syringe-Pump Image.png)
+
+![Syringe Pump Render](/assets/img/IRL-Syringe-Pump Image.png)
+
 # Purpose
 
 The syringe pump was designed to deliver precise and accurate fluid amounts, making it suitable for applications such as testing or use in hospital settings for patients. It ensures sterile, continuous, and controlled fluid delivery, where precision is crucial. This DIY syringe pump was developed as part of the Rapid Prototyping course at Vanderbilt University, allowing us to practice and apply skills such as 3D modeling, part printing, and assembly. Additionally, this project required the use and programming of an Arduino for the pump to function.
@@ -23,9 +25,15 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 # Parts
 
 ## Off-The-Shelf-Parts
-* 
+| Part | Description |
+| ----- | ----- |
+| Header | Title |
+| Paragraph | Text |
 ## Printed Parts
-* 
+| Part | Description |
+| ----- | ----- |
+| Header | Title |
+| Paragraph | Text |
 
 # Arduino Code
 
@@ -38,4 +46,4 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 
 * 
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Syringe Pump Gallery" %}
