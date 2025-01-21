@@ -5,7 +5,7 @@ header:
   teaser: /assets/img/Syringe Pump Render.png
 gallery:
   - image_path: assets/img/Close Up Support.png
-  - image_path: assets/img/IRL-Sryinge-Pump Image.png
+  - image_path: assets/img/IRL-Syringe-Pump Image.png
   - image_path: assets/img/Electrical Configuration.png
    
 ---
