@@ -117,11 +117,11 @@ void setup() {
 
   stepper.setAcceleration(100);         
   
-    //sets the acceleration of motor to 100 steps/s^2
+   //sets the acceleration of motor to 100 steps/s^2
     
   stepper.setMaxSpeed(1000);            
   
-    //sets stepper motor max speed
+   //sets stepper motor max speed
     
   /* max speed = 1000 steps/s but motor goes 3200 steps/rotation*/
   
@@ -142,68 +142,68 @@ void loop() {
   
 
 
-  if (buttonValue == 0 && switchValue == 0) {         
+if (buttonValue == 0 && switchValue == 0) {         
   
-    //if latching button is pressed and the switch is not pressed
+  //if latching button is pressed and the switch is not pressed
     
-    stepper.setSpeed(speed);                          
+  stepper.setSpeed(speed);                          
     
-      //sets the speed of the stepper motor based on calculation
+  //sets the speed of the stepper motor based on calculation
       
-    stepper.runSpeed();                               
+  stepper.runSpeed();                               
     
-      //runs the speed set for motor
+  //runs the speed set for motor
       
-    digitalWrite(greenLED, 1); //turns green LED on
+  digitalWrite(greenLED, 1); //turns green LED on
     
-    digitalWrite(redLED, 0);   //turns red LED off
+  digitalWrite(redLED, 0);   //turns red LED off
     
-    stepper.runSpeed();                  
+  stepper.runSpeed();                  
     
-      //runs the speed again to ensure motor is working at correct speed
+  //runs the speed again to ensure motor is working at correct speed
       
-  } else if (buttonValue == 0 && switchValue == 1) {  
+} else if (buttonValue == 0 && switchValue == 1) {  
   
-      //if latching button on and switch is pressed stop motor
+  //if latching button on and switch is pressed stop motor
       
-    digitalWrite(greenLED, 0);  //turn green LED off
+  digitalWrite(greenLED, 0);  //turn green LED off
     
-    digitalWrite(redLED, 1);    //turn red LED on
+  digitalWrite(redLED, 1);    //turn red LED on
     
-  } else {                                            
+} else {                                            
   
-      //if previous conditions are not met pause motor
+  //if previous conditions are not met pause motor
       
-    digitalWrite(greenLED, 1);  //turn on green LED
+  digitalWrite(greenLED, 1);  //turn on green LED
     
-    digitalWrite(redLED, 1);    //turn on red LED
+  digitalWrite(redLED, 1);    //turn on red LED
     
-    if (forwardValue == 0 && buttonValue == 1) {      
+  if (forwardValue == 0 && buttonValue == 1) {      
     
-      //while paused, if forward button is pressed move carriage forwards
+  //while paused, if forward button is pressed move carriage forwards
       
-      stepper.setSpeed(1000);                         
+  stepper.setSpeed(1000);                         
       
-        //sets the speed of the stepper motor to max speed (steps/s)
+  //sets the speed of the stepper motor to max speed (steps/s)
         
-      stepper.runSpeed();  //runs the speed
+  stepper.runSpeed();  //runs the speed
       
-    } else if (backValue == 0 && buttonValue == 1) {  
+} else if (backValue == 0 && buttonValue == 1) {  
     
-        //while paused if back buttton is pressed move carriage backwards
+  //while paused if back buttton is pressed move carriage backwards
         
-      stepper.setSpeed(-1000);                        
+  stepper.setSpeed(-1000);                        
       
   //set speed of motor to max speed in opposite direction (step/s)
   
-      stepper.runSpeed();  //runs the speed
+  stepper.runSpeed();  //runs the speed
       
-    } else {                                         
+ } else {                                         
     
   //while paused, if neither button is pressed do nothing
   
-    }
-    
   }
+    
+ }
   
 }
