@@ -24,6 +24,7 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 
 # Parts
 ## Off-The-Shelf-Parts
+
 | Part | Quantity |
 | ------- | ------- |
 | V-Slot 20x40x350 | 1 |
@@ -50,6 +51,7 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 | 3M Hex Nut | 1 |
 
 ## Printed Parts
+
 | Part | Quantity |
 | ------- | ------- |
 | End Support Holder w/ Switch Holes | 1 |
