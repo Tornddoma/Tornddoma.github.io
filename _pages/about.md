@@ -4,6 +4,8 @@ title: "About Elman Yip"
 
 ---
 
+Elman is currently an undergraduate student at Vanderbilt University, pursuing a Bachelor’s degree in Mechanical Engineering. He enjoys working with his hands, whether it's creating or deconstructing things to reach a goal. His interests include math, science, coding, and project creation. This website showcases the accomplishments Elman has made in his courses throughout his educational journey.
+
 ## Education
 
 Elman is a currently a student majoring in Mechanical Engineering and looking to minor in Digital Fabrication. 
