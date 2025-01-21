@@ -9,13 +9,33 @@ gallery:
    
 ---
 ![Syringe Pump Render](assets/img/IRL-Syringe-Pump Image.png)
+# Purpose
+
+The syringe pump was designed to deliver precise and accurate fluid amounts, making it suitable for applications such as testing or use in hospital settings for patients. It ensures sterile, continuous, and controlled fluid delivery, where precision is crucial. This DIY syringe pump was developed as part of the Rapid Prototyping course at Vanderbilt University, allowing us to practice and apply skills such as 3D modeling, part printing, and assembly. Additionally, this project required the use and programming of an Arduino for the pump to function.
+
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Dispense Liquid at Set Rate** The syringe pump is designed to deliver fluids with precision and accuracy at rates ranging from 1 to 10 µL/min. This performance was verified during testing of the final model.
+* **Moveable Carriage with Buttons** The pump features two buttons on the front panel, enabling the user to move the carriage forward or backward to load the desired syringe. This design eliminates the need for manually rotating the lead screw or disassembling any parts of the pump to load the syringe.
+* **Works with Varying Syringe Sizes** The supports and carriage are designed to securely hold syringes of various sizes, up to 21 mm in diameter. This is achieved through the use of open slots and a band that firmly secures the syringe in place.
+* **LED, Limit Switch, and Latching Button** The syringe pump features an RGB LED to indicate its current status to the user: green signals that the pump is running, yellow indicates it is paused, and red shows that the pump has run out of fluid and has stopped. Additionally, the pump includes a limit switch that halts the pump when pressed, typically when the syringe is empty. The latching switch allows the user to start or pause the pump as needed.
+
+# Parts
+
+## Off-The-Shelf-Parts
+* 
+## Printed Parts
+* 
+
+# Arduino Code
+
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cb5f7ec64d6b820e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Operating Instructions
+
+* 
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
