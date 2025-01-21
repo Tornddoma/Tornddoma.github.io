@@ -15,7 +15,7 @@ title                    : "Elman Yip"
 title_separator          : "-"
 subtitle                 : "CHBE 4200-01"
 name                     : &name "Elman Yip" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Website to Showcase Projects"
 url                      : https://Tornddoma.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
