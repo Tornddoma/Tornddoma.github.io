@@ -23,7 +23,6 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 * **LED, Limit Switch, and Latching Button** The syringe pump features an RGB LED to indicate its current status to the user: green signals that the pump is running, yellow indicates it is paused, and red shows that the pump has run out of fluid and has stopped. Additionally, the pump includes a limit switch that halts the pump when pressed, typically when the syringe is empty. The latching switch allows the user to start or pause the pump as needed.
 
 # Parts
-
 ## Off-The-Shelf-Parts
 
 | Part | Quantity |
@@ -50,7 +49,6 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 | Arduino UNO | 1 |
 | Coupler | 1 |
 | 3M Hex Nut | 1 |
-
 ## Printed Parts
 
 | Part | Quantity |
@@ -68,8 +66,10 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 
 # [Arduino Code](https://docs.google.com/document/d/1suY8182gvrE5d-1QKkiVji9sMOlHixUHP0GuEYJHm-Y/edit?usp=sharing)
 
+
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cb5f7ec64d6b820e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 # Operating Instructions
 
