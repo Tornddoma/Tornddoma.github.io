@@ -65,7 +65,8 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 | Carriage | 1 |
 
 
-# [Arduino Code](https://docs.google.com/document/d/1suY8182gvrE5d-1QKkiVji9sMOlHixUHP0GuEYJHm-Y/edit?usp=sharing)
+# [Arduino Code Docs](https://docs.google.com/document/d/1suY8182gvrE5d-1QKkiVji9sMOlHixUHP0GuEYJHm-Y/edit?usp=sharing)
+# [Arduino Code](https://Tornddoma.github.io/_pages/Syringe-Pump-Arduino-Code)
 
 
 # CAD Model
