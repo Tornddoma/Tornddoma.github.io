@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Elman is an engineering student with a passion for hands-on work and 3D modeling. He has gained a diverse set of skills in areas such as woodworking, 3D modeling and printing, circuitry, and biomedical engineering."
 feature_row:
-  - image_path: assets/img/IRL-Sryinge-Pump Image.png
+  - image_path: assets/img/IRL-Syringe-Pump Image.png
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
     excerpt: "Constructed with off-the-shelf components and 3D-printed parts, it is capable of delivering fluids at a rate of 1 to 10 µL/min."
