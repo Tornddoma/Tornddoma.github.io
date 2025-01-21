@@ -25,19 +25,48 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 # Parts
 
 ## Off-The-Shelf-Parts
-| Part | Description |
+
+| Part | Quantity |
 | ----- | ----- |
-| Header | Title |
-| Paragraph | Text |
+| V-Slot 20x40x350 | 1 |
+| Nut-tr8x8-4 | 1 |
+| NEMA-17-Motor | 1 |
+| M5x8mm-Bolt| 12 |
+| M5-Tee-Nut | 12 |
+| M2.5 Thread forming screw | 2 |
+| Limit Switch | 1 |
+| M3x10mm-Bolt | 11 |
+| M3x8-Thread-Forming-Screw | 4 |
+| LM8UU-Linear-Bearing | 1 |
+| Linear-Rod-8mmx200mm | 1 |
+| Lead-Screw-TR8x8x250mm | 1 |
+| Syringe | 1 |
+| Syringe Plunger | 1 |
+| Lock-Collar-Linear-Rod | 2 |
+| Lock-Collar-Lead-Screw | 2 |
+| Flanged-Ball-Bearing | 2 |
+| meanwell_RD-65A | 1 |
+| Breadboard | 1 |
+| Arduino UNO | 1 |
+| Coupler | 1 |
+| 3M Hex Nut | 1 |
+
 ## Printed Parts
-| Part | Description |
+
+| Part | Quantity |
 | ----- | ----- |
-| Header | Title |
-| Paragraph | Text |
+| End Support Holder w/ Switch Holes | 1 |
+| End Support Holder w/o Switch Holes | 1 |
+| Motor Mounting Plate | 1 |
+| End Support | 1 |
+| Syringe Band | 1 |
+| Encolsure Box | 1 |
+| Encolsure Cap | 1 |
+| Enclosure Front Panel | 1 |
+| Carriage | 1 |
 
 
 # [Arduino Code](https://docs.google.com/document/d/1suY8182gvrE5d-1QKkiVji9sMOlHixUHP0GuEYJHm-Y/edit?usp=sharing)
-
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cb5f7ec64d6b820e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
