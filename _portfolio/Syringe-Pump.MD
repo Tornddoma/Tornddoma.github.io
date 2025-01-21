@@ -5,11 +5,10 @@ header:
   teaser: /assets/img/Syringe Pump Render.png
 gallery:
   - image_path: assets/img/Close Up Support.png
-  - image_path: assets/img/IRL-Syringe-Pump Image.png
   - image_path: assets/img/Electrical Configuration.png
    
 ---
-![Syringe Pump Render](IRL-Syringe-Pump Image.png)
+![Syringe Pump Render](assets/img/IRL-Syringe-Pump Image.png)
 # Features
 
 * **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
