@@ -24,9 +24,8 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 
 # Parts
 ## Off-The-Shelf-Parts
-
 | Part | Quantity |
-| ----- | ----- |
+| ------- | ------- |
 | V-Slot 20x40x350 | 1 |
 | Nut-tr8x8-4 | 1 |
 | NEMA-17-Motor | 1 |
@@ -49,10 +48,10 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 | Arduino UNO | 1 |
 | Coupler | 1 |
 | 3M Hex Nut | 1 |
-## Printed Parts
 
+## Printed Parts
 | Part | Quantity |
-| ----- | ----- |
+| ------- | ------- |
 | End Support Holder w/ Switch Holes | 1 |
 | End Support Holder w/o Switch Holes | 1 |
 | Motor Mounting Plate | 1 |
