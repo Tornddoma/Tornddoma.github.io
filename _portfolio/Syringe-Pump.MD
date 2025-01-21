@@ -2,7 +2,6 @@
 title: "DIY Syringe Pump"
 excerpt: "A syringe pump designed to output 1 to 10 uL/min of fluid at a constant speed."
 header:
-  image: /assets/img/Syringe Pump Render.png
   teaser: /assets/img/Syringe Pump Render.png
 gallery:
   - image_path: assets/img/Close Up Support.png
