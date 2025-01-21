@@ -35,8 +35,8 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 | Header | Title |
 | Paragraph | Text |
 
-# [Arduino Code](https://Tornddoma.github.io/_pages/Syringe-Pump-Arduino-Code)
 
+# [Arduino Code](https://docs.google.com/document/d/1suY8182gvrE5d-1QKkiVji9sMOlHixUHP0GuEYJHm-Y/edit?usp=sharing)
 
 
 # CAD Model
@@ -44,6 +44,15 @@ The syringe pump was designed to deliver precise and accurate fluid amounts, mak
 
 # Operating Instructions
 
-* 
+* Plug in the power supply and fill syringe with fluid
+* Using the arrow buttons, move the carriage to the right spot for the syringe
+* Place and strap the syringe into the carriage using the TPU-printed strap
+* Input proper flow rate (in mL/min) and barrel diameter (in mm) into the arduino code (easily altered using the 2 variables at the of the code labeled “diameter” and “volFlowRate”)
+* Upload the code to the arduino
+* Press the "On/Off" latching button to start the syringe pump and press again to pause if needed
+  * Green LED is ON/Going and Yellow LED is paused
+* When the syringe runs out of fluid, it will hit the limit switch causing the pump to stop and the LED to turn red.
+* The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
+
 
 {% include gallery caption="Syringe Pump Gallery" %}
