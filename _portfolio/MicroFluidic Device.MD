@@ -13,13 +13,13 @@ gallery:
 
 # Introduction to Microfluidic Devices
 
-• Generally, describe μFluidic devices.
-• What is pinch flow fractionation? How does it work?
-• Asymmetric pinched flow fraction
-• Provide at least one specific application that requires sorting of small particles. Include
+* **What are μFluidic Devices?** describe ufluidic devices (generally)
+* **What is Pinch Flow Fractionation (PFF)?** what is it and how does it work
+* **What is Asymmetric Pinched Flow Fraction (AsPFF)?**
+* **Applications Requiring the Sorting of Small Particles** provide at least one specific application that requires sorting of small particles. Include
 at least one citation from primary literature. 
 
-# Instrctions (Mold to Device)
+# Instructions (Mold to Device)
 
 * **Dispense Liquid at Set Rate** The syringe pump is designed to deliver fluids with precision and accuracy at rates ranging from 1 to 10 µL/min. This performance was verified during testing of the final model.
 • How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
@@ -48,7 +48,6 @@ o Plasma bond glass slide
 9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
 
 # Sorting Video
-[![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
 [![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
 
 (^^ Click to Open in Browser ^^)
