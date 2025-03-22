@@ -10,7 +10,7 @@ gallery:
    
 ---
 
-![Device Photo](assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
+![Device Photo](/assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
 
 # Introduction to μfluidic Devices
 
