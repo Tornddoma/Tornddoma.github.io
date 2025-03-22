@@ -48,7 +48,8 @@ o Plasma bond glass slide
 9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
 
 # Sorting Video
-[![Video Play Image](https://www.youtube.com/watch?v=dTI9CPz5Ph0)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+[![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+[![Video Play Image](assets/img/uFluidic Device Images/Video Image with Play Button.png)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
 (^^ Click to Open in Browser ^^)
 
 
