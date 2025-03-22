@@ -50,6 +50,8 @@ o Plasma bond glass slide
 # Sorting Video
 [![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
 [![Video Play Image](assets/img/uFluidic Device Images/Video Image with Play Button.png)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+
 (^^ Click to Open in Browser ^^)
 
 
