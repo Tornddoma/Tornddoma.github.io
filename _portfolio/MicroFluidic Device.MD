@@ -2,7 +2,7 @@
 title: "MicroFludic Device"
 excerpt: "An asymmetric pinched flow fractionation (AsPFF) microfludic sorting device."
 header:
-  teaser: /assets/img/Syringe Pump Render.png
+  teaser: assets/img/uFluidic Device Images/Device on Table.jpeg
 gallery:
   - image_path: assets/img/Close Up Support.png
   - image_path: assets/img/Electrical Configuration.png
@@ -46,6 +46,8 @@ o Plasma bond glass slide
 7. Green LED is ON/Going and Yellow LED is paused
 8. When the syringe runs out of fluid, it will hit the limit switch causing the pump to stop and the LED to turn red.
 9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
 
 
 {% include gallery caption="Syringe Pump Gallery" %}
