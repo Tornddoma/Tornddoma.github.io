@@ -47,7 +47,9 @@ o Plasma bond glass slide
 8. When the syringe runs out of fluid, it will hit the limit switch causing the pump to stop and the LED to turn red.
 9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+# Sorting Video
+[![Video Play Image](assets/img/uFluidic Device Images/Video Image with Play Button.png)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
+(^^ Click to Open in Browser ^^)
 
 
 {% include gallery caption="Syringe Pump Gallery" %}
