@@ -2,16 +2,17 @@
 title: "MicroFludic Device"
 excerpt: "An asymmetric pinched flow fractionation (AsPFF) microfludic sorting device."
 header:
-  teaser: assets/img/uFluidic Device Images/Device on Table.jpeg
+  teaser: assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
 gallery:
-  - image_path: assets/img/Close Up Support.png
-  - image_path: assets/img/Electrical Configuration.png
+  - image_path: assets/img/uFluidic Device Images/Device in Hand.jpeg
+  - image_path: assets/img/uFluidic Device Images/Mold Top-Side.jpeg
+  - image_path: assets/img/uFluidic Device Images/Mold Top.jpeg
    
 ---
 
-![Syringe Pump Render](/assets/img/IRL-Syringe-Pump Image.png)
+![Device Photo](assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
 
-# Introduction to Microfluidic Devices
+# Introduction to μfluidic Devices
 
 **What are μFluidic Devices?** describe ufluidic devices (generally)
 **What is Pinch Flow Fractionation (PFF)?** what is it and how does it work
@@ -31,17 +32,18 @@ the following steps but with additional detail:
 
 # Discussion
 
-1. Plug in the power supply and fill syringe with fluid
-2. Using the arrow buttons, move the carriage to the right spot for the syringe
-3. Place and strap the syringe into the carriage using the TPU-printed strap
-4. Input proper flow rate (in mL/min) and barrel diameter (in mm) into the arduino code (easily altered using the 2 variables at the of the code labeled “diameter” and “volFlowRate”)
-5. Upload the code to the arduino
-6. Press the "On/Off" latching button to start the syringe pump and press again to pause if needed
-7. Green LED is ON/Going and Yellow LED is paused
-8. When the syringe runs out of fluid, it will hit the limit switch causing the pump to stop and the LED to turn red.
-9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
+• Why are resin-printed molds coated with parylene prior to casting the PDMS? What are
+hypothetical applications of your microfluidic mixer or sorter?
+• Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
+outlet width, location of ports, etc.)
+• What steps or design features did you use to ensure that each outlet received the same
+flow rate, preventing disruptions to the streamlines and maintaining proper separation?
+• Based on the results of testing, could you implement any future changes to improve
+sorting?
+• Did you attempt the bonus opportunity? If so, describe your approach and success.
 
-# CAD Model
+
+# Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a6dad7d02316b283?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
@@ -51,4 +53,4 @@ the following steps but with additional detail:
 (^^ Click to Open in Browser ^^)
 
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="μFludic Device Gallery" %}
