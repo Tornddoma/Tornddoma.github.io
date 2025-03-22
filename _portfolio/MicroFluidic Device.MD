@@ -1,8 +1,8 @@
 ---
 title: "MicroFludic Device"
-excerpt: "An asymmetric pinched flow fractionation (AsPFF) microfludic sorting device."
+excerpt: "An asymmetric pinched flow fractionation (AsPFF) μfludic sorting device."
 header:
-  teaser: assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
+  teaser: /assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
 gallery:
   - image_path: assets/img/uFluidic Device Images/Device in Hand.jpeg
   - image_path: assets/img/uFluidic Device Images/Mold Top-Side.jpeg
