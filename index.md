@@ -14,7 +14,6 @@ feature_row:
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
     excerpt: "Constructed with off-the-shelf components and 3D-printed parts, it is capable of delivering fluids at a rate of 1 to 10 mL/min."
-feature_row:
   - image_path: assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
     alt: "uFluidic Device"
     title: "uFluidic Sorting Device"
