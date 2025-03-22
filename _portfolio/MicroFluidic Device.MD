@@ -13,29 +13,23 @@ gallery:
 
 # Introduction to Microfluidic Devices
 
-* **What are μFluidic Devices?** describe ufluidic devices (generally)
-* **What is Pinch Flow Fractionation (PFF)?** what is it and how does it work
-* **What is Asymmetric Pinched Flow Fraction (AsPFF)?**
-* **Applications Requiring the Sorting of Small Particles** provide at least one specific application that requires sorting of small particles. Include
+**What are μFluidic Devices?** describe ufluidic devices (generally)
+**What is Pinch Flow Fractionation (PFF)?** what is it and how does it work
+**What is Asymmetric Pinched Flow Fraction (AsPFF)?**
+**Applications Requiring the Sorting of Small Particles** provide at least one specific application that requires sorting of small particles. Include
 at least one citation from primary literature. 
 
 # Instructions (Mold to Device)
 
-* **Dispense Liquid at Set Rate** The syringe pump is designed to deliver fluids with precision and accuracy at rates ranging from 1 to 10 µL/min. This performance was verified during testing of the final model.
 • How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
 the following steps but with additional detail:
-o CAD model
-o Print and cure mold
-o Parylene device
-o Cast PDMS
-o Plasma bond glass slide
+1. **CAD Model** 
+2. **Print and cure mold** 
+3. **Parylene device** 
+4. **Cast PDMS** 
+5. **Plasma bond glass slide** 
 
-
-
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cb5f7ec64d6b820e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-# Operating Instructions
+# Discussion
 
 1. Plug in the power supply and fill syringe with fluid
 2. Using the arrow buttons, move the carriage to the right spot for the syringe
@@ -46,6 +40,10 @@ o Plasma bond glass slide
 7. Green LED is ON/Going and Yellow LED is paused
 8. When the syringe runs out of fluid, it will hit the limit switch causing the pump to stop and the LED to turn red.
 9. The syringe pump can be reset by pausing it and moving the carriage back using the arrow buttons (Note: the arrow buttons only work when the pump is paused)
+
+# CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a6dad7d02316b283?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 # Sorting Video
 [![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0)
