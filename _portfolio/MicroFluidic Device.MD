@@ -50,7 +50,9 @@ sorting?
 
 <br>
 # Sorting Video
+
 [![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0){:target="_blank" rel="noopener"}
+
 (^^ Click to Open in Browser ^^)
 
 
