@@ -34,15 +34,15 @@ gallery:
 
 # Discussion
 
-## Why are resin-printed molds coated with parylene prior to casting the PDMS? What are
-hypothetical applications of your microfluidic mixer or sorter?
-## Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
-outlet width, location of ports, etc.)
-## What steps or design features did you use to ensure that each outlet received the same
-flow rate, preventing disruptions to the streamlines and maintaining proper separation?
-## Based on the results of testing, could you implement any future changes to improve
-sorting?
-## Did you attempt the bonus opportunity? If so, describe your approach and success.
+### Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
+
+### Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
+
+### What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?
+
+### Based on the results of testing, could you implement any future changes to improve sorting?
+
+### Did you attempt the bonus opportunity? If so, describe your approach and success.
 - I did not attempt the bonus opportunity to create a mechanism or device to enable equal flow rates. I did not attempt it as it was imcompatible with the AsPFF microfluidic device that I created.
 
 
