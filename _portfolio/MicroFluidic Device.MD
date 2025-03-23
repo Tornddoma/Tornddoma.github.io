@@ -1,6 +1,6 @@
 ---
 title: "MicroFludic Device"
-excerpt: "An asymmetric pinched flow fractionation (AsPFF) μfludic sorting device."
+excerpt: "An asymmetric pinched flow fractionation (AsPFF) microfluidic sorting device."
 header:
   teaser: /assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
 gallery:
@@ -12,11 +12,11 @@ gallery:
 
 ![Device Photo](/assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
 
-# Introduction to μfluidic Devices
+# Introduction to Microfluidic Devices
 
-**What are μFluidic Devices?** describe ufluidic devices (generally)
-**What is Pinch Flow Fractionation (PFF)?** what is it and how does it work
-**What is Asymmetric Pinched Flow Fraction (AsPFF)?**
+**What are μFluidic Devices?** As the name implies, microfluidic devices are small devices that utilize fluid flow to perform a task. They can conduct tests by collecting samples, manipulating them, and analyzing the results. Some forms of manipulation include particle or liquid separation, mixing, and droplet generation. Microfluidic devices rely on capillary action to move liquids through their channels, allowing the liquid to flow without external forces. The device created for this project focused solely on sorting particles of varying sizes.
+**What is Pinch Flow Fractionation (PFF)?** Pinch flow fractionation is a method of sorting particles in microfluidics through the use of a particle stream and a buffer stream. These two streams are sent through a narrow, pinched area where the buffer stream from one inlet pushes the particles from the other inlet against the wall. After exiting the pinched area, the combined (but unmixed) stream enters a broader area, where laminar flow causes the particles to move along a set path. The path of a particle depends on the width of the pinched and broad sections, as well as the diameter of the particle. Larger particles, whose centers are positioned farther from the wall when pushed against it, will flow further away from the wall of the broad section—but not beyond half of its width. Since the particles are spaced out, outlets can be placed to collect the sorted particles.
+**What is Asymmetric Pinched Flow Fraction (AsPFF)?** 
 **Applications Requiring the Sorting of Small Particles** provide at least one specific application that requires sorting of small particles. Include
 at least one citation from primary literature. 
 
