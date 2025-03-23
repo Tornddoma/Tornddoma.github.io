@@ -21,13 +21,14 @@ gallery:
 * **What is Asymmetric Pinched Flow Fraction (AsPFF)?** Asymmetric pinched flow fractionation (AsPFF) is a particle-sorting method similar to the PFF method. The key difference between the two is that AsPFF utilizes varying flow rates, whereas in PFF, the outlet flow rates must be equal. AsPFF achieves this by using asymmetric branch channels, where a single outlet is larger and usually shorter compared to the particle-collecting outlets. The larger outlet, called the drain channel, directs most of the liquid flow, creating an effect that amplifies the difference in particle positions against the sidewall during the pinch. This allows for the sorting of much smaller particles or cases where the  particles have minimal size differences.
   * Source: [Lab on a Chip: Continuous particle separation in a microchannel having asymmetrically arranged multiple branches](https://pubs.rsc.org/en/content/articlelanding/2005/lc/b501885d){:target="_blank" rel="noopener"}
 
-* **Applications Requiring the Sorting of Small Particles** provide at least one specific application that requires sorting of small particles. Include
-at least one citation from primary literature. 
+* **Applications Requiring the Sorting of Small Particles** 
+  * Source: [Title](Link){:target="_blank" rel="noopener"}
 
 # Instructions (Mold to Device)
 
 • How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
 the following steps but with additional detail:
+
 1. **CAD Model** 
 2. **Print and cure mold** 
 3. **Parylene device** 
