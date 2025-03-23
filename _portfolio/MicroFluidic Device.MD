@@ -40,7 +40,7 @@ Why are resin-printed molds coated with parylene prior to casting the PDMS? What
 Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 * a
 
-What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?
+What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?\
 * a
 
 Based on the results of testing, could you implement any future changes to improve sorting?
