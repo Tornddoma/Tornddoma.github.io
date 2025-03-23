@@ -24,6 +24,7 @@ gallery:
 * **Application Requiring the Sorting of Small Particles** One application that requires the sorting of small particles and can be achieved through microfluidic devices is cell and particle sorting. This type of sorting is essential in fields such as biology, biomedicine, and chemistry, where cell and particle isolation, separation, and focusing are key aspects of research and testing.
   * Source: [Microfluidic platforms for the manipulation of cells and particles](https://www.sciencedirect.com/science/article/pii/S266683192200011X){:target="_blank" rel="noopener"}
 
+
 # Fabrication Instructions
 
 1. **CAD Model** The CAD model consists only of the mold required to cast the microfluidic device. The device specifications required the ability to sort particles up to 500 microns in diameter, with inlet and outlet channels positioned at least 11 mm apart (center to center). This separation accounts for the size of the barbs, which require extra space for proper insertion into the device. Since the device was designed as an AsPFF system, where outlet flow rates are highly significant, the outlets were modeled through the side of the device to prevent any flow rate restrictions. The model includes two inlet channels, a pinched section, a small expansion area, a drain channel, and two sorting channels.
@@ -32,28 +33,23 @@ gallery:
 4. **Cast PDMS** Once the print was coated with a parylene film, it was cast with PDMS and other agents to speed up the curing process. The PDMS device was then cured within the mold at high temperatures for a few hours before being removed.
 5. **Plasma bond glass slide** Once the PDMS device was demolded, it was plasma-bonded to a glass coverslip, creating a complete working device.
 
+
 # Discussion
 
-Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
-* a
+* **Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?** 
+* **Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)** 
+* **What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?** 
+* **Based on the results of testing, could you implement any future changes to improve sorting?**
+  * Testing showed that the device sorts most of the particles; however, some of the smaller particles get caught in the wrong stream and are not sorted properly. One possible solution would be to rerun the partially sorted stream through the device to achieve complete sorting. The problems I believe are occurring include some smaller particles not reaching the top wall in time before leaving the pinched section, as well as the geometry of the area after the pinched section potentially obstructing some of the flow. Based on these results, there are a few future changes that may improve sorting.
+    * Method 1: Reduce Inlet Channel Width of Particle Stream
+      * By reducing the inlet channel width, the particles would enter the pinched section closer to the wall, ensuring that they reach it before leaving the section.
+    * Method 2: Increase Pinched Section Length
+      * The same principle applies to this solution: by increasing the length of the pinched section, the particles are given more time to travel toward the wall before leaving the section.
+    * Method 3: Modify Geometry of Area After Pinched Section
+      * Since I believe the flow is being obstructed by the geometry of the area, a geometrical change that could be viable to prevent flow obstruction would be a semi-circle.
 
-Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
-* a
-
-What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?\
-* a
-
-Based on the results of testing, could you implement any future changes to improve sorting?
-* Testing showed that the device sorts most of the particles; however, some of the smaller particles get caught in the wrong stream and are not sorted properly. One possible solution would be to rerun the partially sorted stream through the device to achieve complete sorting. The problems I believe are occurring include some smaller particles not reaching the top wall in time before leaving the pinched section, as well as the geometry of the area after the pinched section potentially obstructing some of the flow. Based on these results, there are a few future changes that may improve sorting.
-  * Method 1: Reduce Inlet Channel Width of Particle Stream
-    * By reducing the inlet channel width, the particles would enter the pinched section closer to the wall, ensuring that they reach it before leaving the section.
-  * Method 2: Increase Pinched Section Length
-    * The same principle applies to this solution: by increasing the length of the pinched section, the particles are given more time to travel toward the wall before leaving the section.
- * Method 3: Modify Geometry of Area After Pinched Section
-  * Since I believe the flow is being obstructed by the geometry of the area, a geometrical change that could be viable to prevent flow obstruction would be a semi-circle.
-
-Did you attempt the bonus opportunity? If so, describe your approach and success.
-* I did not attempt the bonus opportunity to create a mechanism or device to enable equal flow rates. I did not attempt it as it was imcompatible with the AsPFF microfluidic device that I created.
+* **Did you attempt the bonus opportunity? If so, describe your approach and success.** 
+  * I did not attempt the bonus opportunity to create a mechanism or device to enable equal flow rates. I did not attempt it as it was imcompatible with the AsPFF microfluidic device that I created.
 
 
 # Mold CAD Model
