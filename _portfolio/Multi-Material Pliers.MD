@@ -2,15 +2,16 @@
 title: "Multimaterial Pliers"
 excerpt: "A pair of pliers printed using both TPU 95 and PLA, utilizing the flexibility of TPU 95 and the rigid structure of PLA to complete a task."
 header:
-  teaser: /assets/img/uFluidic Device Images/Device on Table - Copy.jpeg
+  teaser: /assets/img/Plier Assets/Plier Teaser Image.jpg
 gallery:
-  - image_path: assets/img/uFluidic Device Images/Device in Hand.jpeg
-  - image_path: assets/img/uFluidic Device Images/Mold Top-Side.jpeg
-  - image_path: assets/img/uFluidic Device Images/Mold Top.jpeg
+  - image_path: assets/img/Plier Assets/Plier Iteration 1.jpg
+  - image_path: assets/img/Plier Assets/Plier Iteration 2.jpg
+  - image_path: assets/img/Plier Assets/Plier Iteration 3.jpg
+  - image_path: assets/img/Plier Assets/Plier Iteration 4.jpg
    
 ---
 
-![Device Photo](/assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
+![Device Photo](/assets/img/Plier Assets/Plier Teaser Image.jpg)
 
 # Project Description
 
@@ -20,7 +21,7 @@ Print-in-place is a form of multimaterial 3D printing that enables more complex 
 
 One application of print-in-place technology is in soft robotics. This field of robotics utilizes softer and more flexible materials to enable interaction with delicate objects. A common example is soft grippers, which can be printed using the multimaterial print-in-place method. These grippers typically have a softer, more flexible exterior for safe handling of fragile items and a more rigid interior for structural integrity.
 
-https://www.sciencedirect.com/science/article/pii/S2214785322063921
+Source: [3D Printing of Soft Grippers with Multimaterial Design](https://www.sciencedirect.com/science/article/pii/S2214785322063921){:target="_blank" rel="noopener"}
 
 Many material combinations work well with print-in-place printing; however, the best combination depends on the specific application. For the multimaterial pliers, an ideal combination would include both a rigid and a flexible material—providing a firm structure for the user to hold and grip the resistors while incorporating flexibility to allow the pliers to return to their original shape after being released. For this project, PLA and TPU 95 were used to achieve this functionality.
 
@@ -36,6 +37,8 @@ In the second iteration, the overall size of the model and the length of the han
 In the third iteration, I kept the same rigid parts and reprinted the flexible part with less clearance to see if the parts would hold together. With the decreased clearance, the parts did hold together, but I was unable to fully press them together, as the reduced clearance was now too tight, preventing the triangles from fully fitting.
 
 For the last iteration, I implemented a design change on the triangle connectors. For both the rigid and flexible parts, I removed all clearance and added fillets to the corners. The rest of the model remained unchanged, and the fillets were added to reduce the amount of material on the triangles so they would fit properly. This method proved to be effective, as the parts were able to slide together securely and held without any issues.
+
+Note: Iterations will be shown in the gallery at the bottom of the page.
 
 
 # Specifications
@@ -65,6 +68,8 @@ The print settings were altered when printing the flexible part using TPU 95. Wh
 <br>
 
 # Plier GIF
-[![Video Play Image](https://img.youtube.com/vi/dTI9CPz5Ph0/0.jpg)](https://www.youtube.com/watch?v=dTI9CPz5Ph0){:target="_blank" rel="noopener"}
+![Working Plier GIF](assets/img/Plier Assets/Plier GIF.gif)
+
+<br>
 
 {% include gallery caption="Multimaterial Plier Gallery" %}
