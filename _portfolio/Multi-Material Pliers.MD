@@ -40,10 +40,17 @@ For the last iteration, I implemented a design change on the triangle connectors
 
 # Specifications
 
-* **Relevant specifications of the pliers (jaw length, jaw capacity)**
-Jaw Capacity: 14.142 mm
-Jaw Length: 70.125 mm
-Handle Length: 83.938 mm
+| Jaw Capacity | 14.142 mm |
+| Jaw Length | 70.125 mm |
+| Handle Length | 83.938 mm |
+| Spring Height | 31 mm |
+| Spring Width | 31 mm |
+| Square Hole Sidelength | 7 mm |
+| Square Hole Wall Thickness | 1 mm |
+| Triangle Far-Side Length | 3 mm |
+| Triangle Height | 2 mm |
+| Triangle Fillet Radius | 0.3 mm |
+| Plier Thickness | 7.5 mm |
 
 # Print Settings
 
