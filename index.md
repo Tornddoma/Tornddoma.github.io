@@ -18,6 +18,11 @@ feature_row:
     alt: "uFluidic Device"
     title: "uFluidic Sorting Device"
     excerpt: "Casted using PDMS in a SLA printed mold. The device is capable of sorting particles under 500 microns."
+  - image_path: assets/img/Plier Assets/Plier Teaser Image.jpg
+    alt: "Multimaterial Pliers"
+    title: "Multimaterial Pliers"
+    excerpt: "Pliers utilizing the benefits of two different filaments: TPU for its flexibility and PLA for its rigidity."
+
 ---
 
 {% include feature_row %}
