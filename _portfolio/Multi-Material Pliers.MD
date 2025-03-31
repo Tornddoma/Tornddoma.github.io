@@ -68,7 +68,7 @@ The print settings were altered when printing the flexible part using TPU 95. Wh
 <br>
 
 # Plier GIF
-![Working Plier GIF](assets/img/Plier Assets/Plier GIF.gif)
+![Working Plier GIF](/assets/img/Plier Assets/Plier GIF.gif)
 
 <br>
 
