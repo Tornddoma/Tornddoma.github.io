@@ -22,8 +22,12 @@ gallery:
 # Why This Design?
 
 * **Rationale** Rationale behind your design
+
 * **Rotation Mechanism** What type of rotation mechanism did you use? Does it work well?
+![Rotation Mechanism Photo](/assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
+
 * **Changes to Account for 3D Printing Process** Did you have to change any dimensions to account for the 3Dprinting process?
+
 * **3D Printing** What type of 3D printing did you use? Why? fused filament fabritation, a form of additive manufacturing
 
 
@@ -38,8 +42,13 @@ FFF, tpu and pla, voron?
 2. 
 
 
-# Mold CAD Model
+# CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a6dad7d02316b283?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<br>
+
+# Rotation GIF
+![Phone Holder Rotating](/assets/img/Plier Assets/Plier GIF.gif)
 
 <br>
 
