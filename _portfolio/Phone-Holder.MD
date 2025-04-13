@@ -12,6 +12,8 @@ gallery:
 
 ![Device Photo](/assets/img/uFluidic Device Images/Device on Table - Copy.jpeg)
 
+# (In Development)
+
 # Top-Down Modeling
 
 * A description of top-down modeling and how it was leveraged in this assignment.
