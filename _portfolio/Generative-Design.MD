@@ -4,12 +4,12 @@ excerpt: "A part created using generative designed with the goal of reducing its
 header:
   teaser: /assets/img/Generative Design Assets/Generative Design Render.PNG
 gallery:
-  - image_path: assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png
-  - image_path: assets/img/Generative Design Assets/Part.jpg
   - image_path: assets/img/Generative Design Assets/Stand.jpg
   - image_path: assets/img/Generative Design Assets/Original Stand.jpg
   - image_path: assets/img/Generative Design Assets/Generative Design Part Stand.jpg
-   
+  - image_path: assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png
+  - image_path: assets/img/Generative Design Assets/Part.jpg
+
 ---
 
 ![Generative Design Part Render](/assets/img/Generative Design Assets/Generative Design Render.PNG)
@@ -43,7 +43,9 @@ The real-world prototype could be tested by placing it into the laptop stand and
 
 
 ## Table of Forces Applied
+
 ### Load Case 1 (45 Degree Angle)
+
 | Force | Magnitude | Location | Rational |
 | ------- | ------- | ------- | ------- |
 | Bearing | 7.8 N | Pin Hole   | Total force divided by 2 because 2 legs. |
@@ -52,6 +54,7 @@ The real-world prototype could be tested by placing it into the laptop stand and
 | Moment| 1.35 Nm | Pin Hole | Moment created from forces restricting rotation |
 
 ### Load Case 2 (30 Degree Angle)
+
 | Force | Magnitude | Location | Rational |
 | ------- | ------- | ------- | ------- |
 | Bearing | 7.8 N | Pin Hole   | Total force divided by 2 because 2 legs. |
