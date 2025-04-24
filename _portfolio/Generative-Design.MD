@@ -5,7 +5,10 @@ header:
   teaser: /assets/img/Generative Design Assets/Generative Design Render.PNG
 gallery:
   - image_path: assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png
-  - image_path: 
+  - image_path: assets/img/Generative Design Assets/Part.jpg
+  - image_path: assets/img/Generative Design Assets/Stand.jpg
+  - image_path: assets/img/Generative Design Assets/Original Stand.jpg
+  - image_path: assets/img/Generative Design Assets/Generative Design Part Stand.jpg
    
 ---
 
