@@ -43,7 +43,6 @@ The real-world prototype could be tested by placing it into the laptop stand and
 
 
 ## Table of Forces Applied
-
 ### Load Case 1 (45 Degree Angle)
 
 | Force | Magnitude | Location | Rational |
@@ -61,6 +60,7 @@ The real-world prototype could be tested by placing it into the laptop stand and
 | Force | 6.755 N | Bottom Small Extrusion | Horizon reactive force from the part pushing against hole to stay in place. |
 | Force | 3.90 N | Bottom Wider Extrusion  | Veritcal reactive force from the hole pushing upward on the part |
 | Moment| 1.35 Nm | Pin Hole | Moment created from forces restricting rotation |
+
 
 # Critique of Generative Design
 
