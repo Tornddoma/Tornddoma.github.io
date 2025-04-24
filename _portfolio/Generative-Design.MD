@@ -9,6 +9,7 @@ gallery:
   - image_path: assets/img/Generative Design Assets/Generative Design Part Stand.jpg
   - image_path: assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png
   - image_path: assets/img/Generative Design Assets/Part.jpg
+  - image_path: assets/img/Generative Design Assets/Explore Page Gen Design.png
 
 ---
 
@@ -78,5 +79,5 @@ On the other hand, I think generative design may fall short in applications that
 
 <br>
 
-{% include gallery caption="Generative Design Part Gallery" %}
+{% include gallery caption="Generative Design Part Gallery, Note: Explore page has one result because only unrestricted was used." %}
 
