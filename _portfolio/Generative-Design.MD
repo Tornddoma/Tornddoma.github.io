@@ -1,5 +1,5 @@
 ---
-title: "Mass Reduction of Laptop Stand Part with Generative Design"
+title: "Generative Design: Laptop Stand Part"
 excerpt: "A part created using generative designed with the goal of reducing its mass while maintaining mechanical performance."
 header:
   teaser: /assets/img/Generative Design Assets/Generative Design Render.PNG
