@@ -22,6 +22,10 @@ feature_row:
     alt: "Multimaterial Pliers"
     title: "Multimaterial Pliers"
     excerpt: "Pliers utilizing the benefits of two different filaments: TPU for its flexibility and PLA for its rigidity."
+  - image_path: assets/img/Generative Design Assets/Generative Design Render.PNG
+    alt: "Generative Design"
+    title: "Generative Design Laptop Stand Part"
+    excerpt: "Laptop stand part designed using generative design with the goal of reducing its mass."
 
 ---
 
