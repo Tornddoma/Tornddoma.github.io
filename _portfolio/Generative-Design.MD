@@ -16,7 +16,7 @@ gallery:
 ![Generative Design Part Render](/assets/img/Generative Design Assets/Generative Design Render.PNG)
 
 
-# Part and Application
+# Part and Application 
 
 The part that was created using generative design for this project is a component of my laptop stand. Specifically, it is one of the two "legs" of the stand that support a larger platform at an angle, where the laptop rests. It is connected on one side by a pin, allowing it to rotate, while the other end fits into holes, enabling the stand's angle to be adjusted. I would have loved to recreate the entire stand; however, size constraints were too small and prevented me from doing so. (Images of the stand with the original part are provided in the gallery at the end of this page.)
 
