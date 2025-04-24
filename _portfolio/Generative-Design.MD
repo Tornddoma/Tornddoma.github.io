@@ -1,15 +1,15 @@
 ---
-title: "DIY Syringe Pump"
-excerpt: "A syringe pump designed to output 1 to 10 mL/min of fluid at a constant speed."
+title: "Mass Reduction of Laptop Stand Part with Generative Design"
+excerpt: "A part created using generative designed with the goal of reducing its mass while maintaining mechanical performance."
 header:
-  teaser: /assets/img/Syringe Pump Render.png
+  teaser: /assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png
 gallery:
   - image_path: assets/img/Close Up Support.png
   - image_path: assets/img/Electrical Configuration.png
    
 ---
 
-![Generative Design Part Render](/assets/img/IRL-Syringe-Pump Image.png)
+![Generative Design Part Render](/assets/img/Generative Design Assets/Generative_Design_Outcome_2025-Apr-24_10-11-06AM-000_CustomizedView1850467492.png)
 
 # Part and Application
 
